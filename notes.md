@@ -16,12 +16,22 @@
 
 ### Data types
 
+- We wil only focus we the primary data types for now.
+- In Python we have a `type()` function that tells the type of data assigned to a variable
+
 1. strings
     - This are characters
     - Strings are surrounded by `""`
     - Example of a string `"12+8`, `"Hello World"`,`'Welcome to Derry'`
     - In Python you can use either `""` or `''` quotation marks for a string.
     - You can write multiple line strings using three quotes`(""" """)`
+2. Integer
+    - This is a whole number eg. 2, 100, 1000 etc
+3. Float
+    - This is a decimal number eg. 2.109, 2.8 etc
+
+- The 3 are the basic data types.
+- We have other data types like list, tuple, boolean, sets that will be coverd later in the chapter.
 
 ### Variables
 
